@@ -3,3 +3,4 @@ locust
 elastic-apm
 psutil
 redis
+python-dotenv
